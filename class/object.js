@@ -31,3 +31,5 @@ const userFabric = (name) => {
 const u1 = userFabric("Dimych")
 const u2 = userFabric("Artem")
 
+u1.hello()
+
